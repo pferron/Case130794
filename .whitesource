@@ -14,7 +14,7 @@
     "snippetSize": 10
   },
   "checkRunSettings": {
-    "iacCheckRunConclusionLevel": "failure"
+    "iacCheckRunConclusionLevel": "failure",
     "vulnerableCheckRunConclusionLevel": "failure",
     "displayMode": "diff",
     "useMendCheckNames": true
